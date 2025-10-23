@@ -1,4 +1,4 @@
-#Experiment 6
+#Experiment6
 
 import numpy as np
 from keras.models import Sequential
